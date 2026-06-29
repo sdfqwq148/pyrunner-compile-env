@@ -1,2 +1,17 @@
-# pyrunner-compile-env
-PyRunner 离线编译环境包（MSVC + Windows SDK），由 upload_compile_env.py 管理
+# PyRunner 编译环境包
+
+PyRunner 编译环境包 的官方发布与分发仓库。
+
+本仓库用于发布 PyRunner 所需的离线编译环境包（MSVC 编译器 + Windows SDK + 打包工具），供 PyRunner 程序内「一键下载编译环境」使用。
+
+## 下载
+
+前往本仓库的 **[Releases](../../releases/latest)** 页面下载最新的编译环境包。
+
+## 自动获取
+
+在 PyRunner 软件里点「编译环境 → 一键下载」即可自动获取（国内自动走镜像加速），通常无需手动下载。
+
+## 说明
+
+本仓库仅用于该编译环境包的版本发布与分发。
